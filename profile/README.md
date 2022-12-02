@@ -1,4 +1,5 @@
-# Dongduk Student Developer Club
+# Dongduk Women's University Student Developer Club
+- GDSC 없는거 아쉬워서 만든 스터디 & 프로젝트 그룹
 ## Leader
 
 | Name    | 유희진   | 장세은 |
