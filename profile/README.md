@@ -54,9 +54,6 @@
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/112995965?v=4" width="100px" height="100px"><br/><a href="https://github.com/JaeHyeonSim">JaeHyeonSim</a>
       </td>
-      <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/75439868?v=4" width="100px" height="100px"><br/><a href="https://github.com/jeongkite">jeongkite</a>
-      </td>
     </tr>
     <tr>
       <td align="center">
@@ -77,13 +74,16 @@
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/77628363?v=4" width="100px" height="100px"><br/><a href="https://github.com/yeon2lee">yeon2lee</a>
       </td>
-      <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/96467030?v=4" width="100px" height="100px"><br/><a href="https://github.com/yu-heejin">yu-heejin</a>
-      </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/87109601?v=4" width="100px" height="100px"><br/><a href="https://github.com/zsderw">zsderw</a>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/75439868?v=4" width="100px" height="100px"><br/><a href="https://github.com/jeongkite">jeongkite</a>
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/96467030?v=4" width="100px" height="100px"><br/><a href="https://github.com/yu-heejin">yu-heejin</a>
       </td>
     </tr>
   </tbody>
