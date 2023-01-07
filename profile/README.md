@@ -85,6 +85,9 @@
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/96467030?v=4" width="100px" height="100px"><br/><a href="https://github.com/yu-heejin">yu-heejin</a>
       </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/80163835?v=4" width="100px" height="100px"><br/><a href="https://github.com/yubin21">yubin</a>
+      </td>
     </tr>
   </tbody>
 </table>
